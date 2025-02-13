@@ -10,3 +10,4 @@ else if(integer % 2 === 1){
 }
 let result = odd_even(44);
 console.log(result);
+ 
